@@ -1,7 +1,7 @@
 # RTMP NGINX
 Restream.io みたいに再配信できます
 
-nginx は [rtmp-nginx/nginx](https://github.com/SimplyRin/rtmp-nginx/nginx) からビルドしてください。 
+nginx は [rtmp-nginx/nginx](https://github.com/SimplyRin/rtmp-nginx/tree/master/nginx) からビルドしてください。 
 
 # Used Software
 - nginx
