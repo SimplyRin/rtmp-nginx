@@ -24,6 +24,6 @@ make
 
 - `nginx-1.15.1/objs/` フォルダ内に生成された `nginx` を現在と同じフォルダに置いてください。 
 
-- `list` フォルダを chown か chmod とかで www-data が読み書きできるようにしておいてください。
+- `list` フォルダを `chown` か `chmod` とかで `www-data` が読み書きできるようにしておいてください。
 
 - `chown www-data -R ./list/`
